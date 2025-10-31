@@ -12,33 +12,16 @@ Welcome to my GitHub profile! I'm Prajna — a curious and motivated software de
 
 ## 🧰 Tech & Tools
 Here are some technologies I use frequently:
-- Languages: JavaScript / TypeScript, Python, Go
-- Web: React, Node.js, Express
-- DevOps & Cloud: Docker, Kubernetes, GitHub Actions, AWS
-- Datastores: PostgreSQL, MongoDB, Redis
-- Testing & CI: Jest, Playwright, Cypress
-- Others: REST, GraphQL, WebSockets, Terraform
-
----
-
-## 📂 Featured Projects
-(Replace these with links and short descriptions to your top repositories)
-- [project-a](https://github.com/PrajnaKC/project-a) — A short description of project A and what problem it solves.
-- [project-b](https://github.com/PrajnaKC/project-b) — A short description of project B and notable features.
-- [project-c](https://github.com/PrajnaKC/project-c) — A short description of project C and tech stack.
-
----
-
-## 📈 GitHub Stats
-(You can add dynamically generated stats or badges here — example images can be added via GitHub-readme-stats or similar services)
-- Open to showing contributions, streaks, or top languages.
-
+- Languages:Java, C, Python
+- Web: HTML, CSS, FastAPI
+- DevOps & Cloud: GitHub Actions
+- Datastores: MySQL, MongoDB, Redis
 ---
 
 ## 🤝 Let's Collaborate
 I'm open to collaborating on interesting projects, mentoring, and joining teams where I can both contribute and grow.
 - Email:prajnakudkuli@gmail.com
-- LinkedIn:[ https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/prajna-kudkuli-8703b5293/)
+- LinkedIn:https://www.linkedin.com/in/prajna-kudkuli-8703b5293/
 
 ---
 
