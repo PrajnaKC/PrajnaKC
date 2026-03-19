@@ -11,11 +11,12 @@ Welcome to my GitHub profile! I'm Prajna — a curious and motivated software de
 - 🎯 Approach: break problems into small, testable parts and iterate quickly.
 
 ## 🧰 Tech & Tools
-Languages             Python, Java, C
-AI/ML                 TensorFlow, PyTorch, NLP, RAG, LLM-based systems
-Web & Backend         Flask, FastAPI, REST APIs, JavaScript, HTML, CSS
-Database              SQL, MongoDB
-Tools & Platforms     VS Code, Git, GitHub, Colab, Jupyter Notebook, Streamlit, Render            
+
+- **Languages:** Python, Java, C
+- **AI/ML:** TensorFlow, PyTorch, NLP, RAG, LLM-based systems
+- **Web & Backend:** Flask, FastAPI, REST APIs, JavaScript, HTML, CSS
+- **Database:** SQL, MongoDB
+- **Tools & Platforms:** VS Code, Git, GitHub, Colab, Jupyter Notebook, Streamlit, Render           
 ---
 
 ## 🤝 Let's Collaborate
