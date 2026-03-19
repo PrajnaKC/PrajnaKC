@@ -12,10 +12,11 @@ Welcome to my GitHub profile! I'm Prajna — a curious and motivated software de
 
 ## 🧰 Tech & Tools
 Here are some technologies I use frequently:
-- Languages:Java, C, Python
-- Web: HTML, CSS, FastAPI
-- DevOps & Cloud: GitHub Actions
-- Datastores: MySQL, MongoDB, Redis
+Languages          Python, Java, C                  
+AI/ML              TensorFlow, PyTorch, NLP, RAG, LLM-based systems                    
+Web & Backend      Flask, FastAPI, REST APIs, JavaScript, HTML, CSS             
+Database           SQL, MongoDB                   
+Tools & Platforms  VS Code, Git, GitHub, Colab, Jupyter Notebook, Streamlit, Render             
 ---
 
 ## 🤝 Let's Collaborate
